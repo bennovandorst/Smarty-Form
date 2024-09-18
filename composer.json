@@ -1,0 +1,17 @@
+{
+    "name": "bennovandorst/smarty-form",
+    "autoload": {
+        "psr-4": {
+            "Bennovandorst\\SmartyForm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bennovandorst",
+            "email": "9024828@student.zadkine.nl"
+        }
+    ],
+    "require": {
+        "smarty/smarty": "^5.4"
+    }
+}

@@ -9,5 +9,8 @@
 </head>
 <body>
     {extends file="templates/layout.tpl"}
+    {block name="content"}
+        <p>{$result}</p>
+    {/block}
 </body>
 </html>

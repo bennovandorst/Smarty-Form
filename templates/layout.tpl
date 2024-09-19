@@ -18,8 +18,8 @@
             </a>
 
             <ul class="nav nav-pills">
-                <li class="nav-item"><a href="/" class="nav-link">Home</a></li>
-                <li class="nav-item"><a href="#" class="nav-link">Form</a></li>
+                <li class="nav-item"><a href="?page=home" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="?page=form" class="nav-link">Form</a></li>
             </ul>
         </header>
     </div>

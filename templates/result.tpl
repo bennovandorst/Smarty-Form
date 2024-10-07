@@ -10,7 +10,7 @@
 <body>
     {extends file="templates/layout.tpl"}
     {block name="content"}
-        <p>{$result}</p>
+        <p>{$result|sanitize}</p>
     {/block}
 </body>
 </html>
